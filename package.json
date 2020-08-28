@@ -22,8 +22,8 @@
     "roboto-fontface": "^0.4.2",
     "srt-to-vtt": "^1.0.2",
     "titlebar": "^1.1.0",
-    "webtorrent": "^0.63.3",
-    "ytdl-core": "^0.5.1"
+    "webtorrent": "^0.74.0",
+    "ytdl-core": "^0.6.0"
   },
   "devDependencies": {
     "electron-packager": "^5.1.1",
